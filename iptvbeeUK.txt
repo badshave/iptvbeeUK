@@ -1,0 +1,524 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 1:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 1:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 2:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 2:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139330
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 3:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 3:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139331
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 4:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 4:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 5:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 5:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139333
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 6:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 6:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 7:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 7:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139335
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 8:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 8:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139336
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 9:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 9:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139337
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FA CUP 10:" tvg-logo="https://i.imgur.com/unJ9Im2.png" group-title="UK | FA CUP GAMES",FA CUP 10:
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2139338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Birmingham City- EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-birminghamcity.png" group-title="UK | IFOLLOW HUB",Birmingham City- EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Blackburn Rovers - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-blackburnrovers.png" group-title="UK | IFOLLOW HUB",Blackburn Rovers - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Blackpool - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-blackpool.png" group-title="UK | IFOLLOW HUB",Blackpool - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bristol City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-bristolcity.png" group-title="UK | IFOLLOW HUB",Bristol City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Burnley - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/epl-premierleague/epl-premierleague-burnleyfc.png" group-title="UK | IFOLLOW HUB",Burnley - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/560434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cardiff City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-cardiffcity.png" group-title="UK | IFOLLOW HUB",Cardiff City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Coventry City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-coventry.png" group-title="UK | IFOLLOW HUB",Coventry City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Huddersfield Town - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-huddersfieldtown.png" group-title="UK | IFOLLOW HUB",Huddersfield Town - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hull City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-hullcity.png" group-title="UK | IFOLLOW HUB",Hull City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569023
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Luton Town - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-lutontown.png" group-title="UK | IFOLLOW HUB",Luton Town - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Middlesbrough - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-middlesbrough.png" group-title="UK | IFOLLOW HUB",Middlesbrough - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Millwall - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-millwall.png" group-title="UK | IFOLLOW HUB",Millwall - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Norwich City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-norwichcityfc.png" group-title="UK | IFOLLOW HUB",Norwich City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Preston North End - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-prestonnorthend.png" group-title="UK | IFOLLOW HUB",Preston North End - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Queens Park Rangers - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-queensparkrangers.png" group-title="UK | IFOLLOW HUB",Queens Park Rangers - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Reading - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-reading.png" group-title="UK | IFOLLOW HUB",Reading - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Rotherham United - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-rotherhamunited.png" group-title="UK | IFOLLOW HUB",Rotherham United - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sheffield United - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/epl-premierleague/epl-premierleague-sheffieldunitedfc.png" group-title="UK | IFOLLOW HUB",Sheffield United - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/560445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stoke City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-stokecity.png" group-title="UK | IFOLLOW HUB",Stoke City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sunderland - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-sunderland.png" group-title="UK | IFOLLOW HUB",Sunderland - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Swansea City - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-swanseacity.png" group-title="UK | IFOLLOW HUB",Swansea City - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Watford - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-watfordfc.png" group-title="UK | IFOLLOW HUB",Watford - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="West Bromich Albion - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/epl-premierleague/epl-premierleague-westbromwichalbion.png" group-title="UK | IFOLLOW HUB",West Bromich Albion - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/560448
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Wigan Athletic - EFL - Championship" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-wiganathletic.png" group-title="UK | IFOLLOW HUB",Wigan Athletic - EFL - Championship
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Accrington Stanley - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-accringtonstanley.png" group-title="UK | IFOLLOW HUB",Accrington Stanley - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Barnsley -  EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-barnsley.png" group-title="UK | IFOLLOW HUB",Barnsley -  EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bolton Wanderers - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-boltonwanderers.png" group-title="UK | IFOLLOW HUB",Bolton Wanderers - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bristol Rovers - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-bristolrovers.png" group-title="UK | IFOLLOW HUB",Bristol Rovers - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Burton Albion - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-burtonalbion.png" group-title="UK | IFOLLOW HUB",Burton Albion - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cambridge United - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-cambridgeunited.png" group-title="UK | IFOLLOW HUB",Cambridge United - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Charlton Athletic - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-charltonathletic.png" group-title="UK | IFOLLOW HUB",Charlton Athletic - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569018
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cheltenham Town - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-cheltenhamtown.png" group-title="UK | IFOLLOW HUB",Cheltenham Town - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Derby County -  EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-derbycounty.png" group-title="UK | IFOLLOW HUB",Derby County -  EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/568997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Exeter City EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-exetercity.png" group-title="UK | IFOLLOW HUB",Exeter City EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Forest Green Rover - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-forestgreenrovers.png" group-title="UK | IFOLLOW HUB",Forest Green Rover - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ipswich Town - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-ipswichtown.png" group-title="UK | IFOLLOW HUB",Ipswich Town - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Lincoln City - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-lincolncity.png" group-title="UK | IFOLLOW HUB",Lincoln City - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Miltonkeynes Dons - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-miltonkeynesdons.png" group-title="UK | IFOLLOW HUB",Miltonkeynes Dons - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Morecambe - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-morcambe.png" group-title="UK | IFOLLOW HUB",Morecambe - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Oxford United - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-oxfordunited.png" group-title="UK | IFOLLOW HUB",Oxford United - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Peterborough United -  EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-peterboroughunited.png" group-title="UK | IFOLLOW HUB",Peterborough United -  EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Plymouth Agyle - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-plymouthargyle.png" group-title="UK | IFOLLOW HUB",Plymouth Agyle - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Port Vale - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-portvale.png" group-title="UK | IFOLLOW HUB",Port Vale - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Portsmouth - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-portsmouth.png" group-title="UK | IFOLLOW HUB",Portsmouth - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sheffield Wednesday - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-sheffieldwednesday.png" group-title="UK | IFOLLOW HUB",Sheffield Wednesday - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Shrewsbury Town - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-shrewsburytown.png" group-title="UK | IFOLLOW HUB",Shrewsbury Town - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Wycombe Wanderers - EFL - League One" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-championship/efl-championship-wycombewanderers.png" group-title="UK | IFOLLOW HUB",Wycombe Wanderers - EFL - League One
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AFC Wimbledon - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-wimbledon.png" group-title="UK | IFOLLOW HUB",AFC Wimbledon - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Barrow - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-barrow.png" group-title="UK | IFOLLOW HUB",Barrow - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bradford City - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-bradfordcity.png" group-title="UK | IFOLLOW HUB",Bradford City - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Carlisle United - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-carlisleunited.png" group-title="UK | IFOLLOW HUB",Carlisle United - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Colchester United - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-colchesterunited.png" group-title="UK | IFOLLOW HUB",Colchester United - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Crawley Town - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-crawleytown.png" group-title="UK | IFOLLOW HUB",Crawley Town - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Crewe Alexandra - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-crewalexandra.png" group-title="UK | IFOLLOW HUB",Crewe Alexandra - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569019
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doncaster Rovers - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-doncasterrovers.png" group-title="UK | IFOLLOW HUB",Doncaster Rovers - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Gillingham - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-gillingham.png" group-title="UK | IFOLLOW HUB",Gillingham - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569022
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Grimsby Town - EFL League Two" tvg-logo="http://ilovechicken.uk:8880/picons/grimsby.png" group-title="UK | IFOLLOW HUB",Grimsby Town - EFL League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1830472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harrogate Town - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-harrowgatetown.jpeg" group-title="UK | IFOLLOW HUB",Harrogate Town - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hartlepool - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/hartlepool.png" group-title="UK | IFOLLOW HUB",Hartlepool - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Leyton Orient - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-laytenorient.png" group-title="UK | IFOLLOW HUB",Leyton Orient - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Mansfield Town - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-mansfieldtown.png" group-title="UK | IFOLLOW HUB",Mansfield Town - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Newport County - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-newportcountry.png" group-title="UK | IFOLLOW HUB",Newport County - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Northampton Town - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-northamptontown.png" group-title="UK | IFOLLOW HUB",Northampton Town - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Oldham Athletic - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-oldhamathletic.png" group-title="",Oldham Athletic - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Rochdale - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-rochdale.png" group-title="UK | IFOLLOW HUB",Rochdale - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Salford City - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-salfordcity.png" group-title="UK | IFOLLOW HUB",Salford City - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Scunthorpe United - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-scunthorpeunited.png" group-title="",Scunthorpe United - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stevenage - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-leaguetwo-stevenage.png" group-title="UK | IFOLLOW HUB",Stevenage - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stockport County - EFL League Two" tvg-logo="http://ilovechicken.uk:8880/picons/stock.png" group-title="UK | IFOLLOW HUB",Stockport County - EFL League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1830471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sutton United - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/sutton.png" group-title="UK | IFOLLOW HUB",Sutton United - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/622936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Swindon Town - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league1/efl-league1-swindontown.png" group-title="UK | IFOLLOW HUB",Swindon Town - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tranmere Rovers - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-tranmererovers.png" group-title="UK | IFOLLOW HUB",Tranmere Rovers - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Walsall - EFL - League Two" tvg-logo="http://ilovechicken.uk:8880/picons/ukfootballteams/efl-league2/efl-league2-walsall.png" group-title="UK | IFOLLOW HUB",Walsall - EFL - League Two
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/569060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague1.hk" tvg-name="Now HK Premier Sports 1#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 1#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague2.hk" tvg-name="Now HK Premier Sports 2#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 2#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague3.hk" tvg-name="Now HK Premier Sports 3#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 3#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague4.hk" tvg-name="Now HK Premier Sports 4#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 4#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague5.hk" tvg-name="Now HK Premier Sports 5#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 5#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nowpremierleague6.hk" tvg-name="Now HK Premier Sports 6#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 6#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 7#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch627_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 7#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 8#" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch628_180_127.png" group-title="UK | NOW HK SPORTS",Now HK Premier Sports 8#
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/576971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="4seven.uk" tvg-name="UK | 4SEVEN" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-4seven.png" group-title="UK | FREE TO AIR",UK | 4SEVEN
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250346
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5select.uk" tvg-name="UK | 5SELECT" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-5select.png" group-title="UK | FREE TO AIR",UK | 5SELECT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5star.uk" tvg-name="UK | 5STAR" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-5star.png" group-title="UK | FREE TO AIR",UK | 5STAR
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fiveusa.uk" tvg-name="UK | 5USA" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-5usa.png" group-title="UK | FREE TO AIR",UK | 5USA
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alibi.uk" tvg-name="UK | ALIBI FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-alibi.png" group-title="UK | FREE TO AIR",UK | ALIBI FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250345
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbc1.uk" tvg-name="UK | BBC ONE FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-bbcone.png" group-title="UK | FREE TO AIR",UK | BBC ONE FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/113
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbc2.uk" tvg-name="UK | BBC TWO FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-bbctwo.png" group-title="UK | FREE TO AIR",UK | BBC TWO FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/112
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbc3.uk" tvg-name="UK | BBC THREE FHD" tvg-logo="http://ilovechicken.uk:8880/picons/bbc3.png" group-title="UK | FREE TO AIR",UK | BBC THREE FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/636198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbc4.uk" tvg-name="UK | BBC FOUR FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-bbcfour.png" group-title="UK | FREE TO AIR",UK | BBC FOUR FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/115
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="blaze.uk" tvg-name="UK | BLAZE" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-blaze.png" group-title="UK | FREE TO AIR",UK | BLAZE
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsdrama.uk" tvg-name="UK | CBS DRAMA" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-cbsdrama.png" group-title="UK | FREE TO AIR",UK | CBS DRAMA
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsjustice.uk" tvg-name="UK | CBS JUSTICE" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-cbsjustice.png" group-title="UK | FREE TO AIR",UK | CBS JUSTICE
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsreality.uk" tvg-name="UK | CBS REALITY" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-cbsreality.png" group-title="UK | FREE TO AIR",UK | CBS REALITY
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="challenge.uk" tvg-name="UK | CHALLENGE" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-chellengetv.png" group-title="UK | FREE TO AIR",UK | CHALLENGE
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel4.uk" tvg-name="UK | CHANNEL 4 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-channel4.png" group-title="UK | FREE TO AIR",UK | CHANNEL 4 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/111
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel5.uk" tvg-name="UK | CHANNEL 5 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-channel5.png" group-title="UK | FREE TO AIR",UK | CHANNEL 5 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/110
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dave.uk" tvg-name="UK | DAVE FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-dave.png" group-title="UK | FREE TO AIR",UK | DAVE FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/108
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="drama.uk" tvg-name="UK | DRAMA" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-drama.png" group-title="UK | FREE TO AIR",UK | DRAMA
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.uk" tvg-name="UK | E! FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-e%21.png" group-title="UK | FREE TO AIR",UK | E! FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250342
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="e4.uk" tvg-name="UK | E4 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-e4.png" group-title="UK | FREE TO AIR",UK | E4 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greattv.uk" tvg-name="UK | GREAT! TV" tvg-logo="http://ilovechicken.uk:8880/picons/greattv.png" group-title="UK | FREE TO AIR",UK | GREAT! TV
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv1anglia.uk" tvg-name="UK | ITV FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-itv.png" group-title="UK | FREE TO AIR",UK | ITV FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/101
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv2.uk" tvg-name="UK | ITV 2 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-itv2.png" group-title="UK | FREE TO AIR",UK | ITV 2 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/100
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv3.uk" tvg-name="UK | ITV 3 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-itv3.png" group-title="UK | FREE TO AIR",UK | ITV 3 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/99
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv4.uk" tvg-name="UK | ITV 4 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-itv4.png" group-title="UK | FREE TO AIR",UK | ITV 4 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/98
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvbe.uk" tvg-name="UK | ITV BE FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-itvbe.png" group-title="UK | FREE TO AIR",UK | ITV BE FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/97
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="more4.uk" tvg-name="UK | MORE 4 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-more4.png" group-title="UK | FREE TO AIR",UK | MORE 4 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250336
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="picktv.uk" tvg-name="UK | PICK TV SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-picktv.png" group-title="UK | FREE TO AIR",UK | PICK TV SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="really.uk" tvg-name="UK | REALLY" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-really.png" group-title="UK | FREE TO AIR",UK | REALLY
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="s4c.uk" tvg-name="UK | S4C FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-s4c.png" group-title="UK | FREE TO AIR",UK | S4C FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/93
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showcase.uk" tvg-name="UK | SHOWCASE" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment-skyshowcase-hd-alt.png" group-title="UK | FREE TO AIR",UK | SHOWCASE
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="stv.uk" tvg-name="UK | STV FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-stvhd.png" group-title="UK | FREE TO AIR",UK | STV FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/9071
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="together.uk" tvg-name="UK | TOGETHER TV" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-togethertv.png" group-title="UK | FREE TO AIR",UK | TOGETHER TV
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utv.uk" tvg-name="UK | UTV FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-utv.png" group-title="UK | FREE TO AIR",UK | UTV FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/253656
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="w.uk" tvg-name="UK | W FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-watch.png" group-title="UK | FREE TO AIR",UK | W FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/84
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yesterday.uk" tvg-name="UK | YESTERDAY" tvg-logo="https://media.info/i/lf/300/1444689856/1173.png" group-title="UK | FREE TO AIR",UK | YESTERDAY
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.uk" tvg-name="UK | COMEDY CENTRAL FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-comedycentral.png" group-title="UK | ENTERTAINMENT",UK | COMEDY CENTRAL FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250344
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.uk" tvg-name="UK | COMEDY CENTRAL SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-comedycentral.png" group-title="UK | ENTERTAINMENT",UK | COMEDY CENTRAL SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedyxtra.uk" tvg-name="UK | COMEDYXTRA SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-comedycentralextra.png" group-title="UK | ENTERTAINMENT",UK | COMEDYXTRA SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/253156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="davejavu.uk" tvg-name="UK | DAVE JA VU" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-davejavu.png" group-title="UK | ENTERTAINMENT",UK | DAVE JA VU
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gold.uk" tvg-name="UK | GOLD FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-gold.png" group-title="UK | ENTERTAINMENT",UK | GOLD FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gold.uk" tvg-name="UK | GOLD SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-gold.png" group-title="UK | ENTERTAINMENT",UK | GOLD SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramount.uk" tvg-name="UK | PARAMOUNT NETWORK SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-paramount.png" group-title="UK | ENTERTAINMENT",UK | PARAMOUNT NETWORK SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/71
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarts.uk" tvg-name="UK | SKY ARTS FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skyarts.png" group-title="UK | ENTERTAINMENT",UK | SKY ARTS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/92
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarts.uk" tvg-name="UK | SKY ARTS SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skyarts.png" group-title="UK | ENTERTAINMENT",UK | SKY ARTS SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.uk" tvg-name="UK | SKY ATLANTIC FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skyatlantic.png" group-title="UK | ENTERTAINMENT",UK | SKY ATLANTIC FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250331
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.uk" tvg-name="UK | SKY ATLANTIC SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skyatlantic.png" group-title="UK | ENTERTAINMENT",UK | SKY ATLANTIC SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="UK | SKY COMEDY FHD" tvg-logo="http://logos.dtvapps.uk/tg/entertainment/entertainmentuk-skycomedy.png" group-title="UK | ENTERTAINMENT",UK | SKY COMEDY FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/403834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="UK | SKY COMEDY SD" tvg-logo="http://logos.dtvapps.uk/tg/entertainment/entertainmentuk-skycomedy.png" group-title="UK | ENTERTAINMENT",UK | SKY COMEDY SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycrime.uk" tvg-name="UK | SKY CRIME FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skycrime.png" group-title="UK | ENTERTAINMENT",UK | SKY CRIME FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycrime.uk" tvg-name="UK | SKY CRIME SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skycrime.png" group-title="UK | ENTERTAINMENT",UK | SKY CRIME SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymax.uk" tvg-name="UK | SKY MAX FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment-skymax-hd.png" group-title="UK | ENTERTAINMENT",UK | SKY MAX FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/609353
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymax.uk" tvg-name="UK | SKY MAX SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment-skymax-hd.png" group-title="UK | ENTERTAINMENT",UK | SKY MAX SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sky2.uk" tvg-name="UK | SKY REPLAY SD" tvg-logo="http://ilovechicken.uk:8880/picons/replay.png" group-title="UK | ENTERTAINMENT",UK | SKY REPLAY SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.uk" tvg-name="UK | SKY SCI-FI FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-syfy.png" group-title="UK | ENTERTAINMENT",UK | SKY SCI-FI FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250328
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyshowcase.uk" tvg-name="UK | SKY SHOWCASE FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment-skyshowcase-hd.png" group-title="UK | ENTERTAINMENT",UK | SKY SHOWCASE FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250333
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyshowcase.uk" tvg-name="UK | SKY SHOWCASE SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment-skyshowcase-hd.png" group-title="UK | ENTERTAINMENT",UK | SKY SHOWCASE SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skywitness.uk" tvg-name="UK | SKY WITNESS FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skywitness.png" group-title="UK | ENTERTAINMENT",UK | SKY WITNESS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skywitness.uk" tvg-name="UK | SKY WITNESS SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-skywitness.png" group-title="UK | ENTERTAINMENT",UK | SKY WITNESS SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.uk" tvg-name="UK | SYFY SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-syfy.png" group-title="UK | ENTERTAINMENT",UK | SYFY SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.uk" tvg-name="UK | TLC FHD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-tlc.png" group-title="UK | ENTERTAINMENT",UK | TLC FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/70
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.uk" tvg-name="UK | TLC SD" tvg-logo="http://ilovechicken.uk:8880/picons/entertainment/entertainment-tlc.png" group-title="UK | ENTERTAINMENT",UK | TLC SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK | DAZN 1 SD" tvg-logo="http://ilovechicken.uk:8880/picons/dzuk.png" group-title="UK | SPORTS",UK | DAZN 1 SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK | DAZN 1 HD" tvg-logo="http://ilovechicken.uk:8880/picons/dzuk.png" group-title="UK | SPORTS",UK | DAZN 1 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2373680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="UK | EUROSPORT 1 HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/sportsextra-eurosport1hd.png" group-title="UK | SPORTS",UK | EUROSPORT 1 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/57
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="UK | EUROSPORT 2 HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/sportsextra-eurosport2hd.png" group-title="UK | SPORTS",UK | EUROSPORT 2 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/56
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="UK | LA LIGA HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/old/premiersports1.png" group-title="UK | SPORTS",UK | LA LIGA HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/249933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK | LFC TV HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/old/lfctv.png" group-title="UK | SPORTS",UK | LFC TV HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/52
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK | MUTV HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/old/uk-mutv.png" group-title="UK | SPORTS",UK | MUTV HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportystuff.uk" tvg-name="UK | SPORTY STUFF HD" tvg-logo="http://ilovechicken.uk:8880/picons/uksportsextra/uksportsextra-sportystufftv.png" group-title="UK | SPORTS",UK | SPORTY STUFF HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/593889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="freesports.uk" tvg-name="UK | VIAPLAY EXTRA HD" tvg-logo="http://ilovechicken.uk:8880/picons/via.png" group-title="UK | SPORTS",UK | VIAPLAY EXTRA HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/6193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UK | VIAPLAY SPORTS 1 HD" tvg-logo="http://ilovechicken.uk:8880/picons/via.png" group-title="UK | SPORTS",UK | VIAPLAY SPORTS 1 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/55
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UK | VIAPLAY SPORTS 2 HD" tvg-logo="http://ilovechicken.uk:8880/picons/via.png" group-title="UK | SPORTS",UK | VIAPLAY SPORTS 2 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/54
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL | 4K Games" tvg-logo="https://i.imgur.com/TK0sgPv.png" group-title="UK | ALL 4K GAMES",EPL | 4K Games
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/609245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aljazeera.uk" tvg-name="UK | AL JAZEERA NEWS FHD" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Al%20Jazeera%20English.png" group-title="UK | NEWS",UK | AL JAZEERA NEWS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1392
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="arirangtvhd.uk" tvg-name="UK | ARIRANG TV FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ar.png" group-title="UK | NEWS",UK | ARIRANG TV FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424521
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="UK | BBC NEWS FHD" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/BBC%20News%20HD.png" group-title="UK | NEWS",UK | BBC NEWS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/155468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloombergtv.uk" tvg-name="UK | BLOOMBERG FHD" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Bloomberg%20TV%20HD.png" group-title="UK | NEWS",UK | BLOOMBERG FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250541
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnn.uk" tvg-name="UK | CNN NEWS FHD" tvg-logo="http://ilovechicken.uk:8880/picons/news/cnn.png" group-title="UK | NEWS",UK | CNN NEWS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250542
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="courttv.uk" tvg-name="UK | COURT TV" tvg-logo="http://ilovechicken.uk:8880/picons/courttv.png" group-title="UK | NEWS",UK | COURT TV
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1427127
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="euronews.uk" tvg-name="UK | EURO NEWS" tvg-logo="http://ilovechicken.uk:8880/picons/euro.png" group-title="UK | NEWS",UK | EURO NEWS
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424524
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="france24.uk" tvg-name="UK | FRANCE 24 FHD" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/France%2024%20-%20English.png" group-title="UK | NEWS",UK | FRANCE 24 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250540
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gbnews.uk" tvg-name="UK | GB NEWS FHD" tvg-logo="http://ilovechicken.uk:8880/picons/gbnews.png" group-title="UK | NEWS",UK | GB NEWS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/605510
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nhkworldhd.uk" tvg-name="UK | NHK WORLD FHD" tvg-logo="http://ilovechicken.uk:8880/picons/news/newsandweather-nhkworld.jpg" group-title="UK | NEWS",UK | NHK WORLD FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skynews.uk" tvg-name="UK | SKY NEWS FHD" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20News%20HD.png" group-title="UK | NEWS",UK | SKY NEWS FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="talktv.uk" tvg-name="UK | TALK TV" tvg-logo="http://ilovechicken.uk:8880/picons/talk.png" group-title="UK | NEWS",UK | TALK TV
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/866508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtworld.uk" tvg-name="UK | TRT WORLD FHD" tvg-logo="http://ilovechicken.uk:8880/picons/news/newsandweather-trtworld.jpg" group-title="UK | NEWS",UK | TRT WORLD FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 1" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 1
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 2" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 2
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 3" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 3
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 4" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 4
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 5" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 5
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 6" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 6
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142364
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 7" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 7
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142363
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 8" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 8
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 9" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 9
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142361
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 10" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 10
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2142360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 11" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 11
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2143099
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 12" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 12
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2143098
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 13" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 13
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National League 14" tvg-logo="https://i.imgur.com/fxOvVm2.png" group-title="UK | NATIONAL LEAGUE",National League 14
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAnimation.png" group-title="UK | MOVIES",Sky Cinema Animation FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/512718
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAnimation.png" group-title="UK | MOVIES",Sky Cinema Animation HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAnimation.png" group-title="UK | MOVIES",Sky Cinema Animation SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyPremiere.png" group-title="UK | MOVIES",Sky Cinema Premiere FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyPremiere.png" group-title="UK | MOVIES",Sky Cinema Premiere HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/27
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyPremiere.png" group-title="UK | MOVIES",Sky Cinema Premiere SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/253173
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAction.png" group-title="UK | MOVIES",Sky Cinema Action FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAction.png" group-title="UK | MOVIES",Sky Cinema Action HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyAction.png" group-title="UK | MOVIES",Sky Cinema Action SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyThriller.png" group-title="UK | MOVIES",Sky Cinema Thriller FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyThriller.png" group-title="UK | MOVIES",Sky Cinema Thriller HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/33
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyThriller.png" group-title="UK | MOVIES",Sky Cinema Thriller SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedyhd.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://logos.dtvapps.uk/uk2/SkyCinemaComedy.png" group-title="UK | MOVIES",Sky Cinema Comedy FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://logos.dtvapps.uk/uk2/SkyCinemaComedy.png" group-title="UK | MOVIES",Sky Cinema Comedy HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy SD" tvg-logo="http://logos.dtvapps.uk/uk2/SkyCinemaComedy.png" group-title="UK | MOVIES",Sky Cinema Comedy SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyFamily.png" group-title="UK | MOVIES",Sky Cinema Family FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyFamily.png" group-title="UK | MOVIES",Sky Cinema Family HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/21
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyFamily.png" group-title="UK | MOVIES",Sky Cinema Family SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyDrama.png" group-title="UK | MOVIES",Sky Cinema Drama FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/588559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyDrama.png" group-title="UK | MOVIES",Sky Cinema Drama HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/588561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyDrama.png" group-title="UK | MOVIES",Sky Cinema Drama SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyGreats.png" group-title="UK | MOVIES",Sky Cinema Greats FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyGreats.png" group-title="UK | MOVIES",Sky Cinema Greats HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/23
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyGreats.png" group-title="UK | MOVIES",Sky Cinema Greats SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema Select / Feel Good FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkySelect.png" group-title="UK | MOVIES",Sky Cinema Select / Feel Good FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkySelect.png" group-title="UK | MOVIES",Sky Cinema Select HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/31
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema Select SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkySelect.png" group-title="UK | MOVIES",Sky Cinema Select SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi/Horror FHD" tvg-logo="http://logos.dtvapps.uk/uk2/SkyScFiHor.png" group-title="UK | MOVIES",Sky Cinema SciFi/Horror FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi/Horror HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyScFiHor.png" group-title="UK | MOVIES",Sky Cinema SciFi/Horror HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/29
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi/Horror SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyScFiHor.png" group-title="UK | MOVIES",Sky Cinema SciFi/Horror SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyHits.png" group-title="UK | MOVIES",Sky Cinema Hits FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyHits.png" group-title="UK | MOVIES",Sky Cinema Hits HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/25
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/SkyHits.png" group-title="UK | MOVIES",Sky Cinema Hits SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film 4 FHD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/Film4.png" group-title="UK | MOVIES",Film 4 FHD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/250323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/Film4.png" group-title="UK | MOVIES",Film 4 HD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film 4 SD" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/Film4.png" group-title="UK | MOVIES",Film 4 SD
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/612956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="http://ilovechicken.uk:8880/picons/great.png" group-title="UK | MOVIES",Great! Movies
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatmovies.uk" tvg-name="Great! Movies Action" tvg-logo="http://ilovechicken.uk:8880/picons/greatma.png" group-title="UK | MOVIES",Great! Movies Action
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatclassic.uk" tvg-name="Great! Movies Classic" tvg-logo="http://ilovechicken.uk:8880/picons/greatcl.png" group-title="UK | MOVIES",Great! Movies Classic
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444838
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="horrorchannel.uk" tvg-name="Horror Channel" tvg-logo="http://ilovechicken.uk:8880/picons/horror.png" group-title="UK | MOVIES",Horror Channel
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/513993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="legend.uk" tvg-name="Legend Movies" tvg-logo="http://ilovechicken.uk:8880/picons/lg.png" group-title="UK | MOVIES",Legend Movies
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2424526
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="movies24.uk" tvg-name="Movies 24" tvg-logo="http://ilovechicken.uk:8880/picons/movies24.png" group-title="UK | MOVIES",Movies 24
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/615888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="talkingpictures.uk" tvg-name="Talking Pictures TV" tvg-logo="http://ilovechicken.uk:8880/picons/ico/UK/TalkingPictures.png" group-title="UK | MOVIES",Talking Pictures TV
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/155466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 01 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 01 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 02 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 02 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 03 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 03 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 04 -NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 04 -NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 05 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 05 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 10 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 10 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 06 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 06 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 07 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 07 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 08 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 08 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 09 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 09 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 11 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 11 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 12 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 12 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 13 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 13 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 14 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 14 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 15 -  NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 15 -  NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 16 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 16 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 17 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 17 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 18 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 18 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 19 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 19 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 20 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 20 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 21 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 21 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 22 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 22 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 23 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 23 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 24 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 24 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 25 - NO EVENT" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 25 - NO EVENT
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1444968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIVE EVENT 26 - 10 Days live from Tomorrowland Mainstage" tvg-logo="http://ilovechicken.uk:8880/picons/ppv.png" group-title="UK | PPV LIVE EVENTS",LIVE EVENT 26 - 10 Days live from Tomorrowland Mainstage
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/1821069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smithsonianchannel.us" tvg-name="USA- SMITHSONIAN CHANNEL" tvg-logo="http://ilovechicken.uk:8880/picons/usa.png" group-title="US | ENTERTAINMENT",USA- SMITHSONIAN CHANNEL
+http://activeme.one:8880/Ezrameura/cAwJej3rQQ/2140052
